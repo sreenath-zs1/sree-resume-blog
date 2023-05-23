@@ -5,8 +5,8 @@
 - 👨‍🎓 &nbsp; Masters of Computer Applications at Sri Padmavathi College of Computer Sciences and Technology - Sri Venkateswara  University
 - ⌨️ &nbsp; Experienced in Provisioning and Managing Cloud Infrastructure, Automation, and Experienced in handling CICD Lifecycle.
 - 🌱 &nbsp; Currently Working on DevOps Engineer and O365 Stack
-- 🌐 &nbsp; [My Website](https://sreenathrangana.github.io/devopslife/)
-- 💡 &nbsp; [My DevOps Blog](https://sreenathrangana.github.io/devopslife/)
+<!-- - 🌐 &nbsp; [My Website]()
+- 💡 &nbsp; [My DevOps Blog]() -->
 
 
 ## 🛠 &nbsp; Tech Stack
